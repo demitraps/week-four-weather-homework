@@ -16,6 +16,9 @@ export default function WeatherBlock() {
       <div className="col-2">
         <WeatherAdditions />
       </div>
+      <div>
+        <a href="https://github.com/demitraps">Open source code </a>
+      </div>
     </div>
   );
 }
