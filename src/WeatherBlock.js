@@ -17,7 +17,9 @@ export default function WeatherBlock() {
         <WeatherAdditions />
       </div>
       <div>
-        <a href="https://github.com/demitraps">Open source code </a>
+        <a href="https://github.com/demitraps/week-four-weather-homework">
+          Open source code{" "}
+        </a>
       </div>
     </div>
   );
